@@ -47,6 +47,17 @@ opacity: 0.7;
 cursor:pointer;
 }
 #city2{
-background-image: url(city2.jpg);background-repeeat:repeat-x; margin-left: -10px; margin-right: -10px;}
+background-image: url(city2.jpg);background-repeat:repeat-x; margin-left: -10px; margin-right: -10px;}
 #laptop{
 background-image: url(laptop.jpg); repeat-x; margin-left: -10px; margin-right: -10px;}
+#laptop22{
+  background-image: url("laptop2.jpg"); background-repeat: repeat-x; margin-left:-10px; margin-right: -10px; 
+}
+#laptops{
+  background-image:url(laptops.jpg); background-repeat: repeat-x; margin-right: -10px; margin-left: -10px;
+}
+#city3{
+  background-image: url(city3.jpg); background-repeat: repeat-x; margin-right: -10px; margin-left: -10px;
+}#laptop{
+  background-image: url(laptop.jpg); background-repeat: repeat-x; margin-left: -10px; margin-right: -10px;
+}
