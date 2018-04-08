@@ -75,19 +75,16 @@ background-image: url(laptop.jpg); repeat-x; margin-left: -10px; margin-right: -
 #city4{
   background-image: url(city4.jpeg); background-repeat: repeat-x; margin-left: -10px; margin-right: -10px;
 }
-.menufix{position: fixed; left: 50%; right: 60%; opacity: 0.7;
+.menufix{position: fixed; left:-1px; opacity: 0.7; top:0px; text-align: center;
 z-index: 1000;}
 .menu{
   z-index: 1001;
   
 }
 .Place1{    
-    width: 50%;
-    height: 20%;
     position: fixed;
+    text-align: center;
     left: 25%;
     right: 25%;
     top: 5px;
-
-   
 }
